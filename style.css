@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+}
+
+.container {
+    padding: 10px 0px;
+    margin: 20px 20px;
+    margin-left: 0px;
+    background-color: white;
+    max-width: 100%;
+    max-height: 100%;
+    line-height: 1.6;
+}
+
+.logo {
+    max-height: 12px;
+    font-size: xx-large;
+}
+nav {
+    border-bottom: 2px solid black;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 70px;
+}
+
+.ist {
+    text-align: center;
+}
+
+.at {
+    float: right;
+    margin-right: 90px;
+}
+
+.hi {
+    padding: 7px 20px;
+}
+
+.ix {
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: rgb(162, 110, 211);
+    color: white;
+    border: none;
+}
+
+.sec {
+    float: right;
+    background-image: url(/images/WhatsApp\ Image\ 2022-08-17\ at\ 2.44.51\ PM.jpeg);
+    background-position: center;
+    /*padding-bottom: 500px;
+    padding-left: 364px;*/
+}
+
+.create {
+    margin-bottom: 393px;
+    text-align: center;
+    margin-right: 70px;
+    width: 442px;
+}
+
+.fig {
+    /*margin-left: 82px;
+margin-top: 74px;
+margin-right: 141px;*/
+    font-size: x-large;
+    color: black;
+}
+
+.one {
+    border-radius: 48px;
+    padding-right: 0px;
+    position: relative;
+    right: -50px;
+}
+
+.two {
+    border-radius: 48px;
+    padding-right: 0px;
+    margin-top: 139px;
+    margin-left: 33px;
+}
+
+.three {
+    border-radius: 48px;
+    padding-right: 0px;
+    margin-top: 302px;
+    margin-left: 78px;
+}
+
+.new {
+    /*margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 28px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 18px;
+    padding-right: 185px;*/
+    background-color: white;
+}
+
+.intro {
+    text-transform: capitalize;
+    font-size: xx-large;
+}
+
+.hm {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+}
+
+.pr {
+    border: none;
+    background-color: white;
+}
+
+img {
+    float: right;
+    height: 90px;
+    padding-right: 85px;
+}
+
+.num {
+    height: 0px;
+    margin: 0px;
+}
+
+.con {
+    margin-left: 200px;
+    margin-top: 1px;
+}
+
+.base {
+    background-color: black;
+    color: white;
+    padding: 35px 0px;
+    padding-left: 20px;
+    max-width: 100%;
+}
+
+.stat {
+    height: 0px;
+}
+
+table {
+    margin-left: 200px;
+}
+
+td {
+    border-bottom: 1px solid white;
+}
+
+.nom {
+    padding-left: 120px;
+}
+
+.more {
+    background-color: yellow;
+    border: none;
+    padding: 7px 20px;
+}
+
+.met {
+    padding-left: 20px;
+}
+
+.btn {
+    border-radius: 2px;
+    position: relative;
+    background-color: antiquewhite;
+    border-color: bisque;
+    right: -10px;
+}

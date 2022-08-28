@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/*media screen,make screen to fit andriod devices*/
+
 body {
     margin: auto;
 }
@@ -59,8 +61,10 @@ li {
     background-position: center;
     /*padding-bottom: 500px;
     padding-left: 364px;*/
-    max-width: 100%;
+   
 }
+
+
 
 .create {
     margin-bottom: 393px;

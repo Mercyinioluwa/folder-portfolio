@@ -21,7 +21,6 @@ body {
 .logo {
     max-height: 12px;
     font-size: xx-large;
-    viewport-fit: 100%;
 }
 nav {
     border-bottom: 2px solid black;

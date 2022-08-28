@@ -59,7 +59,7 @@ li {
     background-position: center;
     /*padding-bottom: 500px;
     padding-left: 364px;*/
-    max width: 100%;
+    max-width: 100%;
 }
 
 .create {

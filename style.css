@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
 }
 
-/*media screen,make screen to fit andriod devices*/
 
 body {
     margin: auto;
@@ -168,6 +168,7 @@ td {
 
 .nom {
     padding-left: 120px;
+    display: flexbox;
 }
 
 .more {
